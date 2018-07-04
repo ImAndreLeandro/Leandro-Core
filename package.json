@@ -1,0 +1,9 @@
+{
+	"name": "LeandroCore",
+	"version": "1.0.0",
+	"description": "LeandroCore for discord",
+	"main": "Bot.js",
+	"dependencies": {
+		"discord.js": "^11.3.2"
+	}
+}
